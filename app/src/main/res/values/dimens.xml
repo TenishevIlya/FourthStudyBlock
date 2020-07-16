@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="wannaHelpLeftMarg">58dp</dimen>
+    <dimen name="wannaHelpRightMarg">58dp</dimen>
+    <dimen name="wannaHelpTopMarg">154dp</dimen>
+    <dimen name="wannaHelpWidth">245dp</dimen>
+    <dimen name="wannaHelpHeight">73dp</dimen>
+
+    <dimen name="progBarWidth">38dp</dimen>
+    <dimen name="progBarHeight">38dp</dimen>
+    <dimen name="progBarLeftMarg">161dp</dimen>
+    <dimen name="progBarRightMarg">161dp</dimen>
+    <dimen name="progBarTopMarg">83dp</dimen>
+
+
+    <dimen name="loadTextTopMarg">20dp</dimen>
+    <dimen name="loadTextLeftMarg">146dp</dimen>
+    <dimen name="loadTextRigthMarg">146dp</dimen>
+    <dimen name="loadTextWidth">68dp</dimen>
+    <dimen name="loadTextHeight">20dp</dimen>
+
+    <dimen name="simbirImgTopMarg">124dp</dimen>
+    <dimen name="simbirImgRightMarg">122dp</dimen>
+    <dimen name="simbirImgLeftMarg">122dp</dimen>
+    <dimen name="simbirImgBotMarg">40dp</dimen>
+
+    <dimen name="circleWidth">42dp</dimen>
+    <dimen name="circleHeight">42dp</dimen>
+
+    <dimen name="gridImageHeight">80dp</dimen>
+    <dimen name="gridImageWidth">120dp</dimen>
+    <dimen name="gridImageMargLeft">24dp</dimen>
+    <dimen name="gridImageMargRight">24dp</dimen>
+    <dimen name="gridImageMargTop">12dp</dimen>
+    <dimen name="gridImageMargBot">36dp</dimen>
+
+    <dimen name="gridTextViewMargTop">104dp</dimen>
+    <dimen name="gridTextViewMargBot">5dp</dimen>
+    <dimen name="gridTextViewTextSize">15sp</dimen>
+
+    <dimen name="recyclerViewMargTop">20dp</dimen>
+
+    <dimen name="recyclerTextViewHeight">19dp</dimen>
+    <dimen name="recyclerTextViewWidth">223dp</dimen>
+    <dimen name="recyclerViewTextViewMargLeft">69dp</dimen>
+    <dimen name="recyclerViewTextViewMargTop">19dp</dimen>
+    <dimen name="recyclerViewTextViewMargRight">69dp</dimen>
+    <dimen name="recyclerViewTextViewSize">16sp</dimen>
+
+    <dimen name="bottomNavHeight">54dp</dimen>
+</resources>
